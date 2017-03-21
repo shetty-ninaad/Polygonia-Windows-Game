@@ -1,0 +1,2 @@
+# Polygonia-Windows-Game
+a popular and classic game developed for Windows using WPF. The classic game of DOTS and BOXES is implemented. Starting with an empty grid of dots, two players take turns adding a single horizontal or vertical line between two unjoined adjacent dots. The player who completes the fourth side of a 1×1 box earns one point and takes another turn. (A point is typically recorded by placing a mark that identifies the player in the box, such as an initial). The game ends when no more lines can be placed. The winner is the player with the most points.
